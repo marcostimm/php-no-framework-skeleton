@@ -12,3 +12,9 @@
 > doctrine/orm
 
 > vlucas/valitron
+
+### Install
+> composer install
+
+### Run
+> php -S localhost:8000
